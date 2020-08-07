@@ -1,6 +1,8 @@
 # rudderstack_master
 
-In order to easily work with transferring these files to Google Apps Script, I recommend using Google's clasp tool. Alternatively, simply make copies of the two sheets linked below.
+In order to easily work with transferring these files to Google Apps Script, I recommend using Google's clasp tool.
+https://github.com/google/clasp
+Alternatively, simply make copies of the two sheets linked below. 
 
 This is a set of scripts to draw data about event schema from Rudderstack and present them in an easy-to-understand report.
 
