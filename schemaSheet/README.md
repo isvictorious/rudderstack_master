@@ -9,3 +9,8 @@ There are two scripts in this sheet, both of which only act upon whichever sheet
 Check outliers - highlights the values in the sheet which appear less frequently, with the least frequent appearing in dark red and more frequent schema attributes being shaded in progressively lighter reds.
 
 Create aggregate sheet - adds a new sheet with a simple count of the number of appearances of each attribute in the active sheet.
+
+/**
+    Coded by Dave Cook
+    www.davecookcodes.com
+*/
