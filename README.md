@@ -19,34 +19,22 @@ To easily analyse these results, you can run the two scripts in the workbook. Th
 
 Feel free to clone this repo and tinker with it yourself. Alternatively, you can just make a copy of [this sheet] (https://docs.google.com/spreadsheets/d/1wYZxrArTSJGDBgwa1rBFtna9pRTnsKmPOu-BXrbGWtM/edit#gid=487109032).
 
-Before you can get your Rudderstack schema, you will need to...			
-✅ Get copy of the schema template sheet. 				
-✅ Designate a folder to save the results to			
+Before you can get your Rudderstack schema, you will need to...	
+
+✅ Get copy of the schema template sheet. 	
+
+✅ Designate a folder to save the results to	
+
 ✅ Paste the IDs for the template and the folder to the 
 control panel 👆"			
+
 🔑 Add your dataplane names and API keys			
 
 
 
 "						
 						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
+				
 
 /**
     Coded by Dave Cook
