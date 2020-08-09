@@ -17,7 +17,7 @@ To easily analyse these results, you can run the two scripts in the workbook. Th
 
 ## Getting Started
 
-Feel free to clone this repo and tinker with it yourself. Alternatively, you can just make a copy of [this sheet] (https://docs.google.com/spreadsheets/d/1wYZxrArTSJGDBgwa1rBFtna9pRTnsKmPOu-BXrbGWtM/edit#gid=487109032).
+Feel free to clone this repo and tinker with it yourself. Alternatively, you can just make a copy of [this sheet](https://docs.google.com/spreadsheets/d/1wYZxrArTSJGDBgwa1rBFtna9pRTnsKmPOu-BXrbGWtM/edit#gid=487109032).
 
 Before you can get your Rudderstack schema, you will need to...	
 
