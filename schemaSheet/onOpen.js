@@ -4,5 +4,6 @@ function onOpen() {
   ui.createMenu('Scripts')
       .addItem('Check outliers', 'main')
       .addItem('Create aggregate sheet', 'createAggregateSheet')
+      .addItem('Format sheet', 'formatSheet')
       .addToUi();
 }

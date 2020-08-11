@@ -46,5 +46,6 @@ function addAggregatedValuesToSheet(ss, aggregatedObject){
     const pasteRange = aggregateSheet.getRange(1,1,newRows.length, newRows[0].length);
     pasteRange.setValues(newRows);
   }
+  formatSheet(aggregateSheet);
   
 }
